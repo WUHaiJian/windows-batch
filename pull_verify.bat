@@ -1,0 +1,1 @@
+adb pull /data/fingerprint/verify ./Che/5/verify/st

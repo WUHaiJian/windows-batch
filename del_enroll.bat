@@ -1,0 +1,1 @@
+adb shell rm -rf /data/fingerprint/enroll/*.bin

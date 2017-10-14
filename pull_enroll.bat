@@ -1,0 +1,1 @@
+adb pull /data/fingerprint/enroll ./Che/5/enroll/st
